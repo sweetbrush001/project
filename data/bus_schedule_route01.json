@@ -1,0 +1,7688 @@
+[
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "0:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "1:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "4:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "0:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "2:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "4:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "0:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "2:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "4:30"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "0:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "2:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "4:20"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "0:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "2:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "4:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "0:20",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:50"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "2:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "4:30"
+  },
+  {
+    "trip_id_raw": "C-1",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "1:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "2:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "5:10"
+  },
+  {
+    "trip_id_raw": "K-1",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "0:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "4:40"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "1:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "5:30"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "0:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "4:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "1:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "5:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "0:50",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:20"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "5:00"
+  },
+  {
+    "trip_id_raw": "C-2",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "2:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "6:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "1:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "5:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "2:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "6:30"
+  },
+  {
+    "trip_id_raw": "K-2",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "1:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "5:20"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "2:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "6:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "1:20",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:50"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "3:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "5:30"
+  },
+  {
+    "trip_id_raw": "C-3",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "3:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "7:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "1:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "5:40"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "3:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "7:20"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "1:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "5:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "3:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "7:30"
+  },
+  {
+    "trip_id_raw": "K-3",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "1:50",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:20"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "6:00"
+  },
+  {
+    "trip_id_raw": "C-4",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "3:30",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:10"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "7:40"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "2:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "6:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "3:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "7:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "2:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "6:20"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "3:50",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:30"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "8:00"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "2:20",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "3:50"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "4:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "6:30"
+  },
+  {
+    "trip_id_raw": "C-5",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "4:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "8:10"
+  },
+  {
+    "trip_id_raw": "K-4",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "2:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "6:40"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "4:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "8:20"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "2:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "6:50"
+  },
+  {
+    "trip_id_raw": "C-6",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "4:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "8:30"
+  },
+  {
+    "trip_id_raw": "K-5",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "2:50",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:20"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:00"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "4:30",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:10"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "8:40"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:10"
+  },
+  {
+    "trip_id_raw": "C-7",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "4:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "8:50"
+  },
+  {
+    "trip_id_raw": "K-6",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:07",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:37"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:37"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:17"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "4:50",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:30"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:00"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:14",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:44"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:24"
+  },
+  {
+    "trip_id_raw": "C-8",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:10"
+  },
+  {
+    "trip_id_raw": "K-7",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:21",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:51"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:51"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:31"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:07",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:47"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:47"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:17"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:28",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "4:58"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "5:58"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:38"
+  },
+  {
+    "trip_id_raw": "C-9",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:14",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:54"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:54"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:24"
+  },
+  {
+    "trip_id_raw": "K-8",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:35",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:05"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:05"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:45"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:21",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:01"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:01"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:31"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:50"
+  },
+  {
+    "trip_id_raw": "C-10",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:38"
+  },
+  {
+    "trip_id_raw": "K-9",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:45",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:15"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "7:55"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:35",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:15"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:45"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:50",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:20"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:00"
+  },
+  {
+    "trip_id_raw": "C-11",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:42",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:22"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:22"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:52"
+  },
+  {
+    "trip_id_raw": "K-10",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "3:55",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:25"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:25"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:05"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:49",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:29"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:29"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "9:59"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:10"
+  },
+  {
+    "trip_id_raw": "K-1",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "5:56",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:36"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:36"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "10:06"
+  },
+  {
+    "trip_id_raw": "K-11",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:05",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:35"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:35"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:15"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:03",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:43"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:43"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "10:13"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:20"
+  },
+  {
+    "trip_id_raw": "C-12",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "10:20"
+  },
+  {
+    "trip_id_raw": "K-12",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:15",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:45"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:45"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:25"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:17",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:57"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:57"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "10:27"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:20",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:50"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:30"
+  },
+  {
+    "trip_id_raw": "C-13",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:24",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:04"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:04"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "10:34"
+  },
+  {
+    "trip_id_raw": "K-13",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:25",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "5:55"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "6:55"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:35"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:31",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:11"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:11"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "10:41"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:40"
+  },
+  {
+    "trip_id_raw": "K-2",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:38",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:18"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:18"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "10:48"
+  },
+  {
+    "trip_id_raw": "K-14",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:35",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:05"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:05"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:45"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:45",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:25"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:25"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "10:55"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:50"
+  },
+  {
+    "trip_id_raw": "C-14",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:52",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:32"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:02"
+  },
+  {
+    "trip_id_raw": "K-15",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:45",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:15"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "8:55"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "6:59",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:39"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:39"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:09"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:50",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:20"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:00"
+  },
+  {
+    "trip_id_raw": "C-15",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "7:06",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:46"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:46"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:16"
+  },
+  {
+    "trip_id_raw": "K-16",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "4:55",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:25"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:25"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:05"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "7:13",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:53"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:53"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:23"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:10"
+  },
+  {
+    "trip_id_raw": "K-3",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "7:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:30"
+  },
+  {
+    "trip_id_raw": "K-17",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:07",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:37"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:37"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:17"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "7:27",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:07"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:07"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:37"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:14",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:44"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:24"
+  },
+  {
+    "trip_id_raw": "C-16",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "7:34",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:14"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:44"
+  },
+  {
+    "trip_id_raw": "K-18",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:21",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:51"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:51"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:31"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "7:41",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:21"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:21"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:51"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:28",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "6:58"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "7:58"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:38"
+  },
+  {
+    "trip_id_raw": "C-17",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "7:48",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:28"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:28"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "11:58"
+  },
+  {
+    "trip_id_raw": "K-19",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:35",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:05"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:05"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:45"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "7:55",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:35"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:35"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "12:05"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:42",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:12"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:12"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:52"
+  },
+  {
+    "trip_id_raw": "K-4",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:02",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:42"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:42"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "12:12"
+  },
+  {
+    "trip_id_raw": "K-20",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:49",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:19"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:19"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "9:59"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:09",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:49"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:49"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "12:19"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "5:56",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:26"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "10:06"
+  },
+  {
+    "trip_id_raw": "C-18",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:16",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:56"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "12:26"
+  },
+  {
+    "trip_id_raw": "K-21",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:03",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:33"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:33"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "10:13"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:23",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:03"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:03"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "12:33"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "10:20"
+  },
+  {
+    "trip_id_raw": "C-19",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:30",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:10"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "12:40"
+  },
+  {
+    "trip_id_raw": "K-22",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:17",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:47"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:47"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "10:27"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:37",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:17"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:17"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "12:47"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:24",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "7:54"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "8:54"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "10:34"
+  },
+  {
+    "trip_id_raw": "K-5",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:44",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:24"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:24"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "12:54"
+  },
+  {
+    "trip_id_raw": "C-1",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:31",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:01"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:01"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "10:41"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:51",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:31"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:31"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:01"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:38",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:08"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "10:48"
+  },
+  {
+    "trip_id_raw": "C-20",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "8:58",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:38"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:08"
+  },
+  {
+    "trip_id_raw": "K-23",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:45",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:15"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "10:55"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "9:05",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:45"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:45"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:15"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:52",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:22"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:22"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:02"
+  },
+  {
+    "trip_id_raw": "C-21",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "9:12",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:52"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:52"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:22"
+  },
+  {
+    "trip_id_raw": "K-24",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "6:59",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:29"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:29"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:09"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "9:19",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:59"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:59"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:29"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "7:06",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:36"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:36"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:16"
+  },
+  {
+    "trip_id_raw": "K-6",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "9:26",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:06"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:06"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:36"
+  },
+  {
+    "trip_id_raw": "K-25",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "7:13",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:43"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:43"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:23"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "9:33",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:13"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:13"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:43"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "7:20",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:50"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:30"
+  },
+  {
+    "trip_id_raw": "C-22",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "9:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:50"
+  },
+  {
+    "trip_id_raw": "C-2",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "7:27",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "8:57"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "9:57"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:37"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "9:47",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:27"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:27"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "13:57"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "7:34",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:04"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:04"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:44"
+  },
+  {
+    "trip_id_raw": "C-23",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "9:54",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:34"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:34"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "14:04"
+  },
+  {
+    "trip_id_raw": "K-26",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "7:41",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:11"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:11"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:51"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:01",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:41"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:41"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "14:11"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "7:48",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:18"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:18"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "11:58"
+  },
+  {
+    "trip_id_raw": "K-7",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:08",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:48"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:48"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "14:18"
+  },
+  {
+    "trip_id_raw": "K-27",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "7:55",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:25"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:25"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "12:05"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:15",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:55"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:55"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "14:25"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:02",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:32"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "12:12"
+  },
+  {
+    "trip_id_raw": "C-24",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:22",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:02"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "14:32"
+  },
+  {
+    "trip_id_raw": "K-28",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:09",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:39"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:39"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "12:19"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:29",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:09"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:09"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "14:39"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:16",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:46"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:46"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "12:26"
+  },
+  {
+    "trip_id_raw": "C-25",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:36",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:16"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:16"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "14:46"
+  },
+  {
+    "trip_id_raw": "C-3",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:23",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "9:53"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "10:53"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "12:33"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:43",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:23"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:23"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "14:53"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "12:40"
+  },
+  {
+    "trip_id_raw": "K-8",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:50",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:30"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:00"
+  },
+  {
+    "trip_id_raw": "K-29",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:37",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:07"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:07"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "12:47"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "10:57",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:37"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:37"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:07"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:44",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:14"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "12:54"
+  },
+  {
+    "trip_id_raw": "C-26",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "11:04",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:44"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:14"
+  },
+  {
+    "trip_id_raw": "C-4",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:51",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:21"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:21"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:01"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "11:11",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:51"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:51"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:21"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "8:58",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:28"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:28"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:08"
+  },
+  {
+    "trip_id_raw": "K-9",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "11:18",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:58"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:58"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:28"
+  },
+  {
+    "trip_id_raw": "K-30",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "9:05",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:35"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:35"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:15"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "11:25",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:05"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:05"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:35"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "9:12",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:42"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:42"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:22"
+  },
+  {
+    "trip_id_raw": "K-10",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "11:32",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:12"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:12"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:42"
+  },
+  {
+    "trip_id_raw": "C-5",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "9:19",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:49"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:49"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:29"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "11:39",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:19"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:19"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:49"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "9:26",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "10:56"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "11:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:36"
+  },
+  {
+    "trip_id_raw": "C-27",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "11:46",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:26"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "15:56"
+  },
+  {
+    "trip_id_raw": "K-31",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "9:33",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:03"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:03"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:43"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "11:53",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:33"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:33"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:03"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "9:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:50"
+  },
+  {
+    "trip_id_raw": "K-11",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:10"
+  },
+  {
+    "trip_id_raw": "C-6",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "9:47",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:17"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:17"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "13:57"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:07",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:47"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:47"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:17"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "9:54",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:24"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:24"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "14:04"
+  },
+  {
+    "trip_id_raw": "K-12",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:14",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:54"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:54"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:24"
+  },
+  {
+    "trip_id_raw": "K-32",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:01",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:31"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:31"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "14:11"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:21",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:01"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:01"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:31"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:08",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:38"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "14:18"
+  },
+  {
+    "trip_id_raw": "C-28",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:38"
+  },
+  {
+    "trip_id_raw": "C-7",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:15",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:45"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:45"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "14:25"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:35",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:15"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:45"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:22",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:52"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:52"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "14:32"
+  },
+  {
+    "trip_id_raw": "K-13",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:42",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:22"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:22"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:52"
+  },
+  {
+    "trip_id_raw": "K-33",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:29",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "11:59"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "12:59"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "14:39"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:49",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:29"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:29"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "16:59"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:36",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:06"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:06"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "14:46"
+  },
+  {
+    "trip_id_raw": "C-29",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "12:56",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:36"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:36"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:06"
+  },
+  {
+    "trip_id_raw": "C-8",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:43",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:13"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:13"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "14:53"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:03",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:43"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:43"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:13"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:50",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:20"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:00"
+  },
+  {
+    "trip_id_raw": "K-14",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:20"
+  },
+  {
+    "trip_id_raw": "K-34",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "10:57",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:27"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:27"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:07"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:16",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:56"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "11:04",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:34"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:34"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:14"
+  },
+  {
+    "trip_id_raw": "C-30",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:22",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:02"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:32"
+  },
+  {
+    "trip_id_raw": "C-9",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "11:11",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:41"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:41"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:21"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "11:18",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:48"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:48"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:28"
+  },
+  {
+    "trip_id_raw": "K-15",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:34",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:14"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:44"
+  },
+  {
+    "trip_id_raw": "K-35",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "11:25",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "12:55"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "13:55"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:35"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "11:32",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:02"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:42"
+  },
+  {
+    "trip_id_raw": "C-31",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:46",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:26"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "17:56"
+  },
+  {
+    "trip_id_raw": "C-10",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "11:39",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:09"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:09"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:49"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:52",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:32"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:02"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "11:46",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:16"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:16"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "15:56"
+  },
+  {
+    "trip_id_raw": "K-16",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "13:58",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:38"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:08"
+  },
+  {
+    "trip_id_raw": "K-36",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "11:53",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:23"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:23"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:03"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:04",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:44"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:10"
+  },
+  {
+    "trip_id_raw": "C-32",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:20"
+  },
+  {
+    "trip_id_raw": "C-11",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:07",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:37"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:37"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:17"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:16",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:56"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:14",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:44"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:24"
+  },
+  {
+    "trip_id_raw": "K-17",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:22",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:02"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:32"
+  },
+  {
+    "trip_id_raw": "K-37",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:21",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:51"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:51"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:31"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:28",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "13:58"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "14:58"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:38"
+  },
+  {
+    "trip_id_raw": "K-18",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:34",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:14"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:44"
+  },
+  {
+    "trip_id_raw": "C-12",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:35",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:05"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:05"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:45"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:42",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:12"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:12"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:52"
+  },
+  {
+    "trip_id_raw": "C-33",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:46",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:26"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "18:56"
+  },
+  {
+    "trip_id_raw": "K-38",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:49",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:19"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:19"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "16:59"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:52",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:32"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:02"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "12:56",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:26"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "17:06"
+  },
+  {
+    "trip_id_raw": "K-19",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "14:58",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:38"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:08"
+  },
+  {
+    "trip_id_raw": "C-13",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:03",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:33"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:33"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "17:13"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:04",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:44"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "17:20"
+  },
+  {
+    "trip_id_raw": "K-20",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:20"
+  },
+  {
+    "trip_id_raw": "K-39",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:17",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:47"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:47"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "17:27"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:16",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:56"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:24",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "14:54"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "15:54"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "17:34"
+  },
+  {
+    "trip_id_raw": "K-21",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:22",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:02"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:32"
+  },
+  {
+    "trip_id_raw": "C-14",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:31",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:01"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:01"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "17:41"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:38",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:08"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "17:48"
+  },
+  {
+    "trip_id_raw": "C-34",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:34",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:14"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:44"
+  },
+  {
+    "trip_id_raw": "K-40",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:45",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:15"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "17:55"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:52",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:22"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:22"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:02"
+  },
+  {
+    "trip_id_raw": "K-22",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:46",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:26"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "19:56"
+  },
+  {
+    "trip_id_raw": "K-41",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "13:59",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:29"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:29"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:09"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:52",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:32"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:02"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "14:06",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:36"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:36"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:16"
+  },
+  {
+    "trip_id_raw": "K-23",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "15:58",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:38"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:08"
+  },
+  {
+    "trip_id_raw": "C-15",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "14:13",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:43"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:43"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:23"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:04",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:44"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "14:20",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:50"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:30"
+  },
+  {
+    "trip_id_raw": "C-35",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:20"
+  },
+  {
+    "trip_id_raw": "K-42",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "14:27",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "15:57"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "16:57"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:37"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:16",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:56"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "14:34",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:04"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:04"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:44"
+  },
+  {
+    "trip_id_raw": "K-24",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:22",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:02"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:32"
+  },
+  {
+    "trip_id_raw": "C-16",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "14:41",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:11"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:11"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:51"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "14:48",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:18"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:18"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "18:58"
+  },
+  {
+    "trip_id_raw": "K-25",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:34",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:14"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:44"
+  },
+  {
+    "trip_id_raw": "K-43",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "14:55",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:25"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:25"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "19:05"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:02",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:32"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "19:12"
+  },
+  {
+    "trip_id_raw": "C-36",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:46",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:26"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "20:56"
+  },
+  {
+    "trip_id_raw": "C-17",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:09",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:39"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:39"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "19:19"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:52",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:32"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:02"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:16",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:46"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:46"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "19:26"
+  },
+  {
+    "trip_id_raw": "K-26",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "16:58",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:38"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:08"
+  },
+  {
+    "trip_id_raw": "C-18",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:23",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "16:53"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "17:53"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "19:33"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:04",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:44"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "19:40"
+  },
+  {
+    "trip_id_raw": "K-27",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:20"
+  },
+  {
+    "trip_id_raw": "K-44",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:37",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:07"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:07"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "19:47"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:16",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:56"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:44",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:14"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "19:54"
+  },
+  {
+    "trip_id_raw": "K-28",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:22",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:02"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:32"
+  },
+  {
+    "trip_id_raw": "K-45",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:51",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:21"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:21"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:01"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "15:58",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:28"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:28"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:08"
+  },
+  {
+    "trip_id_raw": "K-29",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:34",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:14"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:44"
+  },
+  {
+    "trip_id_raw": "C-19",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:04",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:34"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:34"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:20"
+  },
+  {
+    "trip_id_raw": "K-30",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:46",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:26"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "21:56"
+  },
+  {
+    "trip_id_raw": "C-20",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:16",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:46"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:46"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:52",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:32"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:02"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:22",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:52"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:52"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:32"
+  },
+  {
+    "trip_id_raw": "K-31",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "17:58",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:38"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:08"
+  },
+  {
+    "trip_id_raw": "C-21",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:28",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "17:58"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "18:58"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:04",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:44"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:34",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:04"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:04"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:44"
+  },
+  {
+    "trip_id_raw": "K-32",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:20"
+  },
+  {
+    "trip_id_raw": "C-22",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:16",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:56"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:46",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:16"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:16"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "20:56"
+  },
+  {
+    "trip_id_raw": "K-33",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:22",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:02"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:32"
+  },
+  {
+    "trip_id_raw": "C-23",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:52",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:22"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:22"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:02"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "16:58",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:28"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:28"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:08"
+  },
+  {
+    "trip_id_raw": "K-34",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:34",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:14"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:44"
+  },
+  {
+    "trip_id_raw": "C-24",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "17:04",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:34"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:34"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "17:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:20"
+  },
+  {
+    "trip_id_raw": "K-35",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:46",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:26"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "22:56"
+  },
+  {
+    "trip_id_raw": "C-25",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "17:16",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:46"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:46"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:52",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:32"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:02"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "17:22",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:52"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:52"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:32"
+  },
+  {
+    "trip_id_raw": "K-36",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "18:58",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:38"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:08"
+  },
+  {
+    "trip_id_raw": "C-26",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "17:28",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "18:58"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "19:58"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:04",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:44"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "17:36",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:06"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:06"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:46"
+  },
+  {
+    "trip_id_raw": "K-37",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:20"
+  },
+  {
+    "trip_id_raw": "C-27",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "17:44",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:14"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "21:54"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:16",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:56"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:56"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "17:52",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:22"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:22"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "22:02"
+  },
+  {
+    "trip_id_raw": "K-38",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:22",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:02"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:32"
+  },
+  {
+    "trip_id_raw": "C-28",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "18:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "22:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "18:08",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:38"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:38"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "22:18"
+  },
+  {
+    "trip_id_raw": "K-39",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:34",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:14"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:14"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:44"
+  },
+  {
+    "trip_id_raw": "C-29",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "18:16",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:46"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:46"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "22:26"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "18:24",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "19:54"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "20:54"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "22:34"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:48",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:28"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:28"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "23:58"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "18:32",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:02"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:02"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "22:42"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "19:56",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:36"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:36"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "0:06"
+  },
+  {
+    "trip_id_raw": "C-30",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "18:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "22:50"
+  },
+  {
+    "trip_id_raw": "K-40",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "20:04",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:44"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:44"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "0:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "18:48",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:18"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:18"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "22:58"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "20:12",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:52"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:52"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "0:22"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "18:56",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:26"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:26"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "23:06"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "20:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "0:30"
+  },
+  {
+    "trip_id_raw": "C-31",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "19:04",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:34"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:34"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "23:14"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "20:28",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:08"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:08"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "0:38"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "19:12",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:42"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:42"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "23:22"
+  },
+  {
+    "trip_id_raw": "K-41",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "20:36",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:16"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:16"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "0:46"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "19:20",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "20:50"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "21:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "23:30"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "20:44",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:24"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:24"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "0:54"
+  },
+  {
+    "trip_id_raw": "C-32",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "19:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "23:40"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "20:52",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:32"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:32"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "1:02"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "19:40",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:10"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "23:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "21:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "1:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "19:50",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:20"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "0:00"
+  },
+  {
+    "trip_id_raw": "K-42",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "21:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "1:20"
+  },
+  {
+    "trip_id_raw": "C-33",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "20:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "0:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "21:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "1:30"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "20:10",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:40"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "0:20"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "21:30",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:10"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "1:40"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "20:20",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "21:50"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "22:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "0:30"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "21:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "1:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "20:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "0:40"
+  },
+  {
+    "trip_id_raw": "K-43",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "21:50",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:30"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "2:00"
+  },
+  {
+    "trip_id_raw": "C-34",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "20:45",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:15"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "0:55"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "22:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "2:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "21:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "1:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "22:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "2:20"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "21:15",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "22:45"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "23:45"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "1:25"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "22:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "2:30"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "21:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "1:40"
+  },
+  {
+    "trip_id_raw": "K-44",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "22:30",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:10"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "2:40"
+  },
+  {
+    "trip_id_raw": "C-35",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "21:45",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:15"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "1:55"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "22:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "2:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "22:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "2:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "22:50",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:30"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "3:00"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "22:15",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "23:45"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:45"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "2:25"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "23:00",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:40"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:40"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "3:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "22:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "1:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "2:40"
+  },
+  {
+    "trip_id_raw": "K-45",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "23:10",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "0:50"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:50"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "3:20"
+  },
+  {
+    "trip_id_raw": "C-36",
+    "operator_type": "Private",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "22:45",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:15"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "1:15"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "2:55"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "23:20",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "1:00"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "3:30"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "23:00",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:30"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "1:30"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "3:10"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "23:30",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "1:10"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:10"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "3:40"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "23:15",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "0:45"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "1:45"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "3:25"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Colombo_to_Kandy",
+    "departure_time_origin": "23:40",
+    "stops": [
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "1:20"
+      },
+      {
+        "name": "Kegalle",
+        "arrival_time": "2:20"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Colombo Fort",
+    "destination_terminal": "Kandy",
+    "arrival_time_destination": "3:50"
+  },
+  {
+    "trip_id_raw": "SLTB",
+    "operator_type": "SLTB",
+    "route_id": "01",
+    "direction": "Kandy_to_Colombo",
+    "departure_time_origin": "23:30",
+    "stops": [
+      {
+        "name": "Kegalle",
+        "arrival_time": "1:00"
+      },
+      {
+        "name": "Nittambuwa",
+        "arrival_time": "2:00"
+      }
+    ],
+    "effective_date": "2020-02-12",
+    "origin_terminal": "Kandy",
+    "destination_terminal": "Colombo Fort",
+    "arrival_time_destination": "3:40"
+  }
+]
