@@ -1,39 +1,36 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, ScrollView, StyleSheet } from 'react-native';
-import { useNavigation } from '@react-navigation/native';
 import { Ionicons } from '@expo/vector-icons';
+import { useRouter } from 'expo-router';
 
 export default function MoreScreen() {
-  const navigation = useNavigation();
+  const router = useRouter();
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <Text style={styles.header}>More Options</Text>
 
-      {/* 🔹 SEND PARCELS with Beta Badge */}
+
       <TouchableOpacity
-        onPress={() => navigation.navigate('SendParcelForm')}
+        onPress={() => router.push('/moreOptionSection/send-parcels')}
         style={styles.card}
       >
         <View style={styles.cardContent}>
           <Ionicons name="cube-outline" size={24} color="#3366CC" />
-          <Text style={styles.cardText}>Send Parcels</Text>
+          <Text style={styles.cardText}>Send Parcels   </Text>
           <View style={styles.betaBadge}>
             <Text style={styles.betaText}>Beta</Text>
           </View>
         </View>
       </TouchableOpacity>
 
+
+
       {/* 🆕 FUTURE FEATURE PLACEHOLDER */}
-      <TouchableOpacity
-        style={styles.disabledCard}
-        disabled
-      >
+      <TouchableOpacity style={styles.disabledCard} disabled>
         <Ionicons name="ellipsis-horizontal-circle-outline" size={24} color="#AAA" />
         <Text style={styles.disabledText}>Coming Soon...</Text>
       </TouchableOpacity>
-
-      {/* Add more feature cards here later */}
     </ScrollView>
   );
 }
@@ -42,13 +39,14 @@ const styles = StyleSheet.create({
   container: {
     padding: 20,
     gap: 20,
+    marginTop: 20,
   },
   header: {
     fontSize: 24,
     fontWeight: 'bold',
   },
   card: {
-    backgroundColor: '#E8F0FE',
+    backgroundColor: '#F4E2D8',
     padding: 15,
     borderRadius: 12,
   },
