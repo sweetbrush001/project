@@ -9,21 +9,49 @@ import {
   Platform,
   StatusBar,
   Alert,
+  TextInput,
 } from 'react-native';
 import { router } from 'expo-router';
-import { Package } from 'lucide-react-native';
+import { Package, Scale, Type, Phone, User, CreditCard } from 'lucide-react-native';
 import { COLORS, FONT, SIZES, SHADOWS } from '../../constants/theme';
 import LocationPicker from '../../components/LocationPicker';
 import SearchButton from '../../components/SearchButton';
 import LocationSwapButton from '../../components/LocationSwapButton';
 import { getPopularLocations, getAllLocations } from '../../services/busService';
 
+type ParcelType = 'document' | 'package' | 'fragile' | 'food' | 'electronics' | 'clothing' | 'medicine' | 'other';
+
 export default function SendParcelScreen() {
   const [fromLocation, setFromLocation] = useState('');
   const [toLocation, setToLocation] = useState('');
+  const [parcelName, setParcelName] = useState('');
+  const [parcelWeight, setParcelWeight] = useState('');
+  const [receiverContact, setReceiverContact] = useState('');
+  const [senderNic, setSenderNic] = useState('');
+  const [receiverNic, setReceiverNic] = useState('');
+  const [parcelType, setParcelType] = useState<ParcelType>('package');
   const [locations, setLocations] = useState<string[]>([]);
   const [loading, setLoading] = useState(false);
-  const [error, setError] = useState<{ from?: string; to?: string }>({});
+  const [error, setError] = useState<{
+    from?: string;
+    to?: string;
+    name?: string;
+    weight?: string;
+    receiverContact?: string;
+    senderNic?: string;
+    receiverNic?: string;
+  }>({});
+
+  const parcelTypes: ParcelType[] = [
+    'document',
+    'package',
+    'fragile',
+    'food',
+    'electronics',
+    'clothing',
+    'medicine',
+    'other'
+  ];
 
   useEffect(() => {
     const loadLocations = async () => {
@@ -42,18 +70,30 @@ export default function SendParcelScreen() {
     loadLocations();
   }, []);
 
-  const handleLocationSwap = () => {
-    const temp = fromLocation;
-    setFromLocation(toLocation);
-    setToLocation(temp);
-    setError({});
-  };
-
   const handleSearchPress = () => {
-    const newErrors: { from?: string; to?: string } = {};
+    const newErrors: typeof error = {};
     if (!fromLocation) newErrors.from = 'Please select pickup location';
     if (!toLocation) newErrors.to = 'Please select delivery location';
     if (fromLocation === toLocation) newErrors.to = 'Pickup and delivery cannot be the same';
+    if (!parcelName.trim()) newErrors.name = 'Please enter parcel name';
+    if (!parcelWeight.trim()) newErrors.weight = 'Please enter parcel weight';
+    if (!receiverContact.trim()) newErrors.receiverContact = 'Please enter receiver contact';
+    if (!senderNic.trim()) newErrors.senderNic = 'Please enter your NIC number';
+    if (!receiverNic.trim()) newErrors.receiverNic = 'Please enter receiver NIC number';
+
+    // Validate contact number format (basic validation)
+    if (receiverContact.trim() && !/^\d{10}$/.test(receiverContact)) {
+      newErrors.receiverContact = 'Please enter a valid 10-digit phone number';
+    }
+
+    // Validate NIC format (basic validation for Sri Lankan NIC)
+    if (senderNic.trim() && !/^(\d{9}[Vv]|\d{12})$/.test(senderNic)) {
+      newErrors.senderNic = 'Please enter a valid NIC number';
+    }
+
+    if (receiverNic.trim() && !/^(\d{9}[Vv]|\d{12})$/.test(receiverNic)) {
+      newErrors.receiverNic = 'Please enter a valid NIC number';
+    }
 
     if (Object.keys(newErrors).length > 0) {
       setError(newErrors);
@@ -67,7 +107,16 @@ export default function SendParcelScreen() {
       setLoading(false);
       router.push({
         pathname: '/parcel-confirmation',
-        params: { from: fromLocation, to: toLocation },
+        params: {
+          from: fromLocation,
+          to: toLocation,
+          name: parcelName,
+          weight: parcelWeight,
+          type: parcelType,
+          receiverContact: receiverContact,
+          senderNic: senderNic,
+          receiverNic: receiverNic
+        },
       });
     }, 800);
   };
@@ -88,7 +137,7 @@ export default function SendParcelScreen() {
           <View style={styles.header}>
             <View style={styles.logoContainer}>
               <Package size={28} color={styles.logoText.color} style={styles.logoIcon} />
-              <Text style={styles.logoText}>Send Parcel   </Text>
+              <Text style={styles.logoText}>Send Parcel</Text>
               <View style={styles.betaBadge}>
                 <Text style={styles.betaText}>Beta</Text>
               </View>
@@ -98,8 +147,8 @@ export default function SendParcelScreen() {
           {/* Main Content */}
           <View style={styles.content}>
             <Text style={styles.title}>Send a Parcel</Text>
-            <Text style={styles.subtitle}>Send Parcels Using Local Buses </Text>
-            <Text ></Text>
+            <Text style={styles.subtitle}>Send Parcels Using Local Buses</Text>
+            <Text></Text>
 
             {/* Form */}
             <View style={styles.formContainer}>
@@ -115,8 +164,6 @@ export default function SendParcelScreen() {
                   />
                 </View>
 
-
-
                 <View style={styles.locationPickerWrapper}>
                   <LocationPicker
                     label="Deliver To"
@@ -129,10 +176,108 @@ export default function SendParcelScreen() {
                 </View>
               </View>
 
+              {/* Parcel Details Section */}
+              <View style={styles.parcelDetailsContainer}>
+                <Text style={styles.sectionTitle}>Parcel Details</Text>
+
+                {/* Parcel Name */}
+                <View style={styles.inputContainer}>
+                  <Package size={20} color={BROWN.primary} style={styles.inputIcon} />
+                  <TextInput
+                    style={styles.input}
+                    placeholder="Parcel name (e.g., Birthday Gift)"
+                    value={parcelName}
+                    onChangeText={setParcelName}
+                    placeholderTextColor={BROWN.textSecondary}
+                  />
+                </View>
+                {error.name && <Text style={styles.errorText}>{error.name}</Text>}
+
+                {/* Parcel Weight */}
+                <View style={styles.inputContainer}>
+                  <Scale size={20} color={BROWN.primary} style={styles.inputIcon} />
+                  <TextInput
+                    style={styles.input}
+                    placeholder="Weight (kg)"
+                    value={parcelWeight}
+                    onChangeText={setParcelWeight}
+                    keyboardType="numeric"
+                    placeholderTextColor={BROWN.textSecondary}
+                  />
+                </View>
+                {error.weight && <Text style={styles.errorText}>{error.weight}</Text>}
+
+                {/* Parcel Type */}
+                <View style={styles.typeContainer}>
+                  <Type size={20} color={BROWN.primary} style={styles.inputIcon} />
+                  <Text style={styles.typeLabel}>Type:</Text>
+                  <View style={styles.typeOptions}>
+                    {parcelTypes.map((type) => (
+                      <Text
+                        key={type}
+                        style={[
+                          styles.typeOption,
+                          parcelType === type && styles.typeOptionSelected,
+                        ]}
+                        onPress={() => setParcelType(type)}
+                      >
+                        {type.charAt(0).toUpperCase() + type.slice(1)}
+                      </Text>
+                    ))}
+                  </View>
+                </View>
+              </View>
+
+              {/* Contact Information Section */}
+              <View style={styles.contactDetailsContainer}>
+                <Text style={styles.sectionTitle}>Contact Information</Text>
+
+                {/* Receiver Contact */}
+                <View style={styles.inputContainer}>
+                  <Phone size={20} color={BROWN.primary} style={styles.inputIcon} />
+                  <TextInput
+                    style={styles.input}
+                    placeholder="Receiver Contact Number (07XXXXXXXX)"
+                    value={receiverContact}
+                    onChangeText={setReceiverContact}
+                    keyboardType="phone-pad"
+                    maxLength={10}
+                    placeholderTextColor={BROWN.textSecondary}
+                  />
+                </View>
+                {error.receiverContact && <Text style={styles.errorText}>{error.receiverContact}</Text>}
+
+                {/* Sender NIC */}
+                <View style={styles.inputContainer}>
+                  <CreditCard size={20} color={BROWN.primary} style={styles.inputIcon} />
+                  <TextInput
+                    style={styles.input}
+                    placeholder="Your NIC Number"
+                    value={senderNic}
+                    onChangeText={setSenderNic}
+                    placeholderTextColor={BROWN.textSecondary}
+                  />
+                </View>
+                {error.senderNic && <Text style={styles.errorText}>{error.senderNic}</Text>}
+
+                {/* Receiver NIC */}
+                <View style={styles.inputContainer}>
+                  <CreditCard size={20} color={BROWN.primary} style={styles.inputIcon} />
+                  <TextInput
+                    style={styles.input}
+                    placeholder="Receiver NIC Number"
+                    value={receiverNic}
+                    onChangeText={setReceiverNic}
+                    placeholderTextColor={BROWN.textSecondary}
+                  />
+                </View>
+                {error.receiverNic && <Text style={styles.errorText}>{error.receiverNic}</Text>}
+              </View>
+
               <SearchButton
                 onPress={handleSearchPress}
                 isLoading={loading}
-                disabled={!fromLocation || !toLocation}
+                disabled={!fromLocation || !toLocation || !parcelName || !parcelWeight || !receiverContact || !senderNic || !receiverNic}
               />
             </View>
           </View>
@@ -143,17 +288,18 @@ export default function SendParcelScreen() {
 }
 
 const BROWN = {
-  background: '#ffff',   // soft warm background
-  card: '#F4E2D8',         // light tan for cards
-  primary: '#A47148',      // brownish-orange
-  textPrimary: '#3E2C1C',  // dark brown
-  textSecondary: '#6F4E37', // medium brown
+  background: '#ffff',
+  card: '#F4E2D8',
+  primary: '#A47148',
+  textPrimary: '#3E2C1C',
+  textSecondary: '#6F4E37',
 };
 
 const styles = StyleSheet.create({
   safeArea: {
     flex: 1,
     backgroundColor: BROWN.background,
+    marginTop: 30,
   },
   container: {
     flex: 1,
@@ -230,11 +376,80 @@ const styles = StyleSheet.create({
   locationPickerWrapper: {
     zIndex: 1000,
   },
-  swapButton: {
-    position: 'absolute',
-    right: 0,
-    top: '50%',
-    marginTop: -20,
-    zIndex: 1001,
+  // New styles for parcel details
+  parcelDetailsContainer: {
+    marginTop: SIZES.l,
+    borderTopWidth: 1,
+    borderTopColor: '#E8D5C0',
+    paddingTop: SIZES.m,
+  },
+  contactDetailsContainer: {
+    marginTop: SIZES.l,
+    borderTopWidth: 1,
+    borderTopColor: '#E8D5C0',
+    paddingTop: SIZES.m,
+  },
+  sectionTitle: {
+    fontFamily: FONT.bold,
+    fontSize: 18,
+    color: BROWN.textPrimary,
+    marginBottom: SIZES.m,
+  },
+  inputContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#FFF',
+    borderRadius: SIZES.s,
+    paddingHorizontal: SIZES.m,
+    paddingVertical: SIZES.s,
+    marginBottom: SIZES.s,
+    ...SHADOWS.xxs,
+  },
+  inputIcon: {
+    marginRight: SIZES.s,
+  },
+  input: {
+    flex: 1,
+    fontFamily: FONT.regular,
+    fontSize: 16,
+    color: BROWN.textPrimary,
+  },
+  typeContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginTop: SIZES.m,
+  },
+  typeLabel: {
+    fontFamily: FONT.medium,
+    fontSize: 16,
+    color: BROWN.textPrimary,
+    marginLeft: SIZES.s,
+    marginRight: SIZES.m,
+  },
+  typeOptions: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    flex: 1,
+    gap: SIZES.xs,
+  },
+  typeOption: {
+    fontFamily: FONT.medium,
+    fontSize: 14,
+    color: BROWN.textPrimary,
+    backgroundColor: '#E8D5C0',
+    paddingHorizontal: SIZES.m,
+    paddingVertical: SIZES.xs,
+    borderRadius: 20,
+  },
+  typeOptionSelected: {
+    backgroundColor: BROWN.primary,
+    color: '#FFF',
+  },
+  errorText: {
+    fontFamily: FONT.regular,
+    fontSize: 12,
+    color: '#D32F2F',
+    marginBottom: SIZES.s,
+    marginLeft: SIZES.xs,
   },
 });
