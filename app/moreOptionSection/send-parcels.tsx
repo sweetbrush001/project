@@ -176,6 +176,10 @@ export default function SendParcelScreen() {
                 </View>
               </View>
 
+
+
+              //************************************ */
+
               {/* Parcel Details Section */}
               <View style={styles.parcelDetailsContainer}>
                 <Text style={styles.sectionTitle}>Parcel Details</Text>

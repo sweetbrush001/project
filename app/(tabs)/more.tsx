@@ -12,7 +12,7 @@ export default function MoreScreen() {
 
 
       <TouchableOpacity
-        onPress={() => router.push('/moreOptionSection/send-parcels')}
+        onPress={() => router.push('/moreOptionSection/sendParcels/send-parcels-2')}
         style={styles.card}
       >
         <View style={styles.cardContent}>
