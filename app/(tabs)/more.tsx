@@ -1,44 +1,88 @@
 import React from 'react';
-import { View, Text, StyleSheet, SafeAreaView } from 'react-native';
-import { COLORS, FONT, SIZES } from '../../constants/theme';
-import { Menu } from 'lucide-react-native';
+import { View, Text, TouchableOpacity, ScrollView, StyleSheet } from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
+import { useRouter } from 'expo-router';
 
 export default function MoreScreen() {
+  const router = useRouter();
+
   return (
-    <SafeAreaView style={styles.container}>
-      <View style={styles.content}>
-        <Menu size={80} color={COLORS.primary[300]} />
-        <Text style={styles.title}>More Options</Text>
-        <Text style={styles.subtitle}>
-          Settings and additional features will be available here.
-        </Text>
-      </View>
-    </SafeAreaView>
+    <ScrollView contentContainerStyle={styles.container}>
+      <Text style={styles.header}>More Options</Text>
+
+
+      <TouchableOpacity
+        onPress={() => router.push('/moreOptionSection/send-parcels')}
+        style={styles.card}
+      >
+        <View style={styles.cardContent}>
+          <Ionicons name="cube-outline" size={24} color="#3366CC" />
+          <Text style={styles.cardText}>Send Parcels   </Text>
+          <View style={styles.betaBadge}>
+            <Text style={styles.betaText}>Beta</Text>
+          </View>
+        </View>
+      </TouchableOpacity>
+
+
+
+      {/* 🆕 FUTURE FEATURE PLACEHOLDER */}
+      <TouchableOpacity style={styles.disabledCard} disabled>
+        <Ionicons name="ellipsis-horizontal-circle-outline" size={24} color="#AAA" />
+        <Text style={styles.disabledText}>Coming Soon...</Text>
+      </TouchableOpacity>
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: COLORS.white,
+    padding: 20,
+    gap: 20,
+    marginTop: 20,
   },
-  content: {
-    flex: 1,
+  header: {
+    fontSize: 24,
+    fontWeight: 'bold',
+  },
+  card: {
+    backgroundColor: '#F4E2D8',
+    padding: 15,
+    borderRadius: 12,
+  },
+  cardContent: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  cardText: {
+    marginLeft: 10,
+    fontSize: 16,
+    color: '#333',
+  },
+  betaBadge: {
+    marginLeft: 10,
+    backgroundColor: '#3366CC',
+    borderRadius: 10,
+    paddingVertical: 4,
+    paddingHorizontal: 8,
     justifyContent: 'center',
     alignItems: 'center',
-    padding: SIZES.l,
   },
-  title: {
-    fontFamily: FONT.bold,
-    fontSize: 24,
-    color: COLORS.neutral[800],
-    marginTop: SIZES.m,
-    marginBottom: SIZES.s,
+  betaText: {
+    color: '#FFF',
+    fontSize: 12,
+    fontWeight: '600',
   },
-  subtitle: {
-    fontFamily: FONT.regular,
+  disabledCard: {
+    backgroundColor: '#F5F5F5',
+    padding: 15,
+    borderRadius: 12,
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  disabledText: {
+    marginLeft: 10,
     fontSize: 16,
-    color: COLORS.neutral[600],
-    textAlign: 'center',
+    color: '#AAA',
   },
 });
